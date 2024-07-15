@@ -36,9 +36,8 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 ## 📝 Latest Work
 
-- [The Suicide Room](#)
-- [Children in the Forrest](#)
-- [Chuyên Án Bệnh Viện Lúc Nữa Đêm](#)
+- [The Suicide Room](https://youtu.be/LQn1DCyh6OY?si=NSZfeyCHHlRQzQxY)
+- [Chuyên Án Bệnh Viện Lúc Nữa Đêm](https://youtu.be/dMv8qTQ1YLU)
 
 ## 🏆 GitHub Stats
 
