@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 ## 🚀 About Me
 
-- 📚 **Horror Story Enthusiast**: I love writing and reading horror stories. Some of my works include "The Suicide Room" and "Children in the Forrest". I also enjoy stories like "Chuyên Án Bệnh Viện Lúc Nữa Đêm".
+- 📚 **Horror Story Enthusiast**: I love writing and reading horror stories. Some of my works include "Midnight Hospital Case" and "A Package Marked “Return to Sender”". I also enjoy stories like "Chuyên Án Bệnh Viện Lúc Nữa Đêm".
 - 💻 **Web Developer**: I specialize in creating beautiful and functional websites. My projects often focus on file uploading and sharing systems with robust features.
 - 🌐 **Tech Stack**: Proficient in Python, JavaScript, CSS, HTML, and more. I enjoy working with modern frameworks and technologies.
 
@@ -18,10 +18,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
   - Comprehensive file management options.
 
 ### Horror Stories Collection
-- **Description**: A collection of my horror stories, including "The Suicide Room" and "Children in the Forrest". Available for reading and feedback.
-
-### Modular Data Structures
-- **Description**: Projects involving the use of dot notation for data structures, such as `users.player1.coins`.
+- **Description**: A collection of my horror stories, including "Midnight Hospital Case" and "A Package Marked “Return to Sender”". Available for reading and feedback.
 
 ## 📫 Get in Touch
 
@@ -36,8 +33,8 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 ## 📝 Latest Work
 
-- [The Suicide Room](https://youtu.be/LQn1DCyh6OY?si=NSZfeyCHHlRQzQxY)
-- [Chuyên Án Bệnh Viện Lúc Nữa Đêm](https://youtu.be/dMv8qTQ1YLU)
+- [Midnight Hospital Case](https://youtu.be/LQn1DCyh6OY)
+- [A Package Marked “Return to Sender”](https://youtu.be/dMv8qTQ1YLU)
 
 ## 🏆 GitHub Stats
 
