@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 - **Description**: A specialized platform for unlimited file uploading and sharing with a beautiful CSS design. It includes an account system, file management capabilities, and various user-friendly features.
 - **Features**:
   - Account system with guest and owner accounts.
-  - Multiple file selection and resumable uploads.
+  - Upload multiple file selections.
   - Comprehensive file management options.
 
 ### Horror Stories Collection
